@@ -1,0 +1,15 @@
+{
+  "name": "sendtrail",
+  "version": "1.0.0",
+  "description": "Outbound webhook delivery platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webhooks",
+    "developer-tools"
+  ],
+  "author": "Tejas Kadam",
+  "license": "MIT"
+}
