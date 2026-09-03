@@ -2,10 +2,10 @@
   "name": "sendtrail",
   "version": "1.0.0",
   "description": "Outbound webhook delivery platform",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
   "keywords": [
     "webhooks",
     "developer-tools"

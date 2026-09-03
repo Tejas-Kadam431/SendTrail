@@ -1,0 +1,8 @@
+{
+  "name": "@sendtrail/api",
+  "version": "1.0.0",
+  "description": "SendTrail API",
+  "private": true,
+  "author": "Tejas Kadam",
+  "license": "MIT"
+}
