@@ -1,8 +1,8 @@
 {
-  "name": "@sendtrail/api",
+  "name": "@sendtrail/worker",
   "version": "1.0.0",
   "type": "module",
-  "description": "SendTrail API",
+  "description": "SendTrail webhook delivery worker",
   "private": true,
   "scripts": {
     "dev": "tsx watch src/index.ts",
@@ -11,11 +11,7 @@
   },
   "author": "Tejas Kadam",
   "license": "MIT",
-  "dependencies": {
-    "express": "^5.2.1"
-  },
   "devDependencies": {
-    "@types/express": "^5.0.6",
     "@types/node": "^22.20.1",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2"
